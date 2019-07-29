@@ -1,6 +1,5 @@
 # Keras based U-Net implementation
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf)
-[Keras](https://keras.io/)
 ---
 
 ## Prerequisites
@@ -17,5 +16,5 @@ net = UNet()
 model = net.model
 ```
 
-
 ## Experiments
+Will be on next update
